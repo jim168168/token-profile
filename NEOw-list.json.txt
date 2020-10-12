@@ -1,0 +1,26 @@
+
+{
+  "name": "DEFI",
+  "logoURI": "http://image109.360doc.cn/DownloadImg/2018/08/0710/140572304_1_20180807100719481.png",
+  "keywords": [
+      "NEO Wrapped",
+      "NEOw",
+      "168000"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xf6276daf5580671d8d27d827e6cdf822d886c354",
+      "name": "NEO Wrapped",
+      "symbol": "NEOw",
+      "decimals": 18,
+      "logoURI": "http://image109.360doc.cn/DownloadImg/2018/08/0710/140572304_1_20180807100719481.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
